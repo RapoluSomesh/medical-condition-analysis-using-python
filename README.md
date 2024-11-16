@@ -1,0 +1,1 @@
+I am so excited to share my project, This project is predict the medical condition by already affected peoples, In this project i used libraries that is numpy, pandas for structuring the data into tables,matplotlib and seaborn for using visualizing the data in python
